@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://doc.zhixue.github.io/blog</id>
+    <title>Zhixue-Middleware 文档 Blog</title>
+    <updated>2022-02-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://doc.zhixue.github.io/blog"/>
+    <subtitle>Zhixue-Middleware 文档 Blog</subtitle>
+    <icon>https://doc.zhixue.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1.7.0a0 发布日志]]></title>
+        <id>1.7.0a0版本发布</id>
+        <link href="https://doc.zhixue.github.io/blog/1.7.0a0版本发布"/>
+        <updated>2022-02-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在本版本内，我们全部继承了来自zhixuewang-python的代码，没有任何改动。]]></summary>
+        <content type="html"><![CDATA[<p>在本版本内，我们全部继承了来自<code>zhixuewang-python</code>的代码，没有任何改动。</p>]]></content>
+        <author>
+            <name>MasterYuan</name>
+            <uri>https://github.com/MasterYuan418/</uri>
+        </author>
+        <category label="release-notes" term="release-notes"/>
+        <category label="major-version" term="major-version"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1.7.0a1 发布日志]]></title>
+        <id>1.7.0a1版本发布</id>
+        <link href="https://doc.zhixue.github.io/blog/1.7.0a1版本发布"/>
+        <updated>2022-02-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本版本添加了公用get_authheader方法。]]></summary>
+        <content type="html"><![CDATA[<p>本版本添加了公用<code>get_authheader</code>方法。</p>]]></content>
+        <author>
+            <name>MasterYuan</name>
+            <uri>https://github.com/MasterYuan418/</uri>
+        </author>
+        <category label="release-notes" term="release-notes"/>
+        <category label="major-version" term="major-version"/>
+    </entry>
+</feed>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzhixuedoc=self.webpackChunkzhixuedoc||[]).push([[202],{2769:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/major-version","name":"major-version","count":2,"permalink":"/blog/tags/major-version"}')}}]);

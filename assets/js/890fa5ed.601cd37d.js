@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzhixuedoc=self.webpackChunkzhixuedoc||[]).push([[541],{9596:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/release-notes","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

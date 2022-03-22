@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Zhixue-Middleware 文档 Blog</title>
+        <link>https://doc.zhixue.github.io/blog</link>
+        <description>Zhixue-Middleware 文档 Blog</description>
+        <lastBuildDate>Wed, 23 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1.7.0a0 发布日志]]></title>
+            <link>https://doc.zhixue.github.io/blog/1.7.0a0版本发布</link>
+            <guid>1.7.0a0版本发布</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[在本版本内，我们全部继承了来自zhixuewang-python的代码，没有任何改动。]]></description>
+            <content:encoded><![CDATA[<p>在本版本内，我们全部继承了来自<code>zhixuewang-python</code>的代码，没有任何改动。</p>]]></content:encoded>
+            <category>release-notes</category>
+            <category>major-version</category>
+        </item>
+        <item>
+            <title><![CDATA[1.7.0a1 发布日志]]></title>
+            <link>https://doc.zhixue.github.io/blog/1.7.0a1版本发布</link>
+            <guid>1.7.0a1版本发布</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[本版本添加了公用get_authheader方法。]]></description>
+            <content:encoded><![CDATA[<p>本版本添加了公用<code>get_authheader</code>方法。</p>]]></content:encoded>
+            <category>release-notes</category>
+            <category>major-version</category>
+        </item>
+    </channel>
+</rss>
