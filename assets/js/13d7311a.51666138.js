@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzhixuedoc=self.webpackChunkzhixuedoc||[]).push([[82],{8492:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/major-version","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
